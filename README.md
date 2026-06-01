@@ -104,7 +104,7 @@ Analyzed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/data-analysis-with-pandas.git
+git clone https://github.com/atulcode404/exploratory-data-analysis.git
 ```
 
 Install dependencies:
